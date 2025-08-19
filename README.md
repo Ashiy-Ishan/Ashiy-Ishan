@@ -1,24 +1,78 @@
-<h1>Hellowww 🤓<br>I am Ashingshana Ishan </h1>
-<h2>Second year university student University of Sabaragamuwa 👨🏻‍🎓 </h2>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<div style="display: flex; justify-content: space-between;">
-  <a target="_blank" href="https://www.linkedin.com/in/ashinshana-ishan-73b228318"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-  <a target="_blank" href="[https://www.linkedin.com/in/ashinshana-ishan-73b228318](https://www.facebook.com/profile.php?id=61553251979579)"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/ashinshana-ishan-73b228318"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<div style="float: right;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashiy-Ishan.Ashiy-Ishan" />
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashiy-Ishan&show_icons=true&locale=en" alt="Ashiy-Ishan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiy-Ishan&" alt="Ashiy-Ishan" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashiy-Ishan&show_icons=true&locale=en&layout=compact" alt="Ashiy-Ishan" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashiy-Ishan" alt="Ashiy-Ishan" /></a></p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashingshana+Ishan!;"/>
+  </a>
+</h1>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashiy-Ishan/Ashiy-Ishan/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashiy-Ishan/Ashiy-Ishan/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Ashiy-Ishan/Ashiy-Ishan/output/github-contribution-grid-snake.svg" />
+
+
+<h3 align="center">A passionate IT Undergraduate </h3>
+
+<br/>
+
+<div align= "center">
+
+ 🌱 I’m currently learning **PYTHON**
+ 
+ 🧑‍🎓 I’m an Undergraduate at **UNIVERSITY OF SABARAGAMUWA**
+ 
+ 💬 Ask me about **Java AND C**
+ 
+ 📫 How to reach me **ashinshanaishan@gmail.com**
+
+ 
+ <div style="text-align: center;">
+  <a href="mailto:ashinshanaishan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" width="150" height="40" />
+  </a>
+  <a href="www.linkedin.com/in/ashinshana-ishan-73b228318" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="150" height="40" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<br/>
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=github,python,c,java"/><br>
+<img src="https://skillicons.dev/icons?i=rect,mysql,html,css,vscode,git" />
+</a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡Stats⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=Ashiy-Ishan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Ashiy-Ishan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <br/>
+  <td width="50%" align="center">
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashiy-Ishan&hide=Hack&langs_count=8&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Ashiy-Ishan" />
+ 
+
+</p>
+  </td>
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+">
+  </a>
+</h3>
+
+
+  
