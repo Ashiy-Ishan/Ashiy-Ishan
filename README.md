@@ -8,9 +8,7 @@
   </a>
 </h1>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashiy-Ishan/Ashiy-Ishan/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashiy-Ishan/Ashiy-Ishan/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/Ashiy-Ishan/Ashiy-Ishan/output/github-contribution-grid-snake.svg" />
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashiy-Ishan&theme=github-compact)](https://github.com/Ashiy-Ishan/github-readme-activity-graph)
 
 
 <h3 align="center">A passionate IT Undergraduate </h3>
