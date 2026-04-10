@@ -41,7 +41,7 @@
 <br/>
 <div align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,python,c,java,kotlin"/><br>
+<img src="https://skillicons.dev/icons?i=github,python,c,java,kotlin,cpp"/><br>
 <img src="https://skillicons.dev/icons?i=rect,mysql,html,css,vscode,git" /><br>
 <img src="https://skillicons.dev/icons?i=au,ae,ps,pr,notion" /><br>
 </a>
