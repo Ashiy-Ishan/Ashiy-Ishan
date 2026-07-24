@@ -1,71 +1,106 @@
-<div align="left" style="float: left;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashiy-Ishan.Ashiy-Ishan" />
-</div>
+```console
+ashiy@github:~$ whoami
+Ashiy Ishan
 
-<h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashingshana+Ishan!;"/>
-  </a>
-</h1>
+ashiy@github:~$ cat profile.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Name        : Ashiy Ishan
+Location    : Sri Lanka 🇱🇰
+Role        : Information System Student
+Focus       : Full Stack Development | Cybersecurity | IoT
+Learning    : Python • C/C++ • Java • Linux • AI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashiy-Ishan&theme=github-compact)](https://github.com/Ashiy-Ishan/github-readme-activity-graph)
+ashiy@github:~$ ls skills/
+Backend      Frontend      Database      Tools
 
+ashiy@github:~$ tree skills
 
-<h3 align="left">A passionate IT Undergraduate </h3>
+skills
+├── Languages
+│   ├── Python
+│   ├── C
+│   ├── C++
+│   ├── Java
+│   ├── JavaScript
+│   └── SQL
+│
+├── Web
+│   ├── HTML
+│   ├── CSS
+│   └── React (Learning)
+│
+├── Databases
+│   ├── MySQL
+│   └── Firebase
+│
+├── Tools
+│   ├── Git
+│   ├── GitHub
+│   ├── VS Code
+│   └── Linux
+│
+└── Interests
+    ├── AI
+    ├── Cyber Security
+    ├── IoT
+    ├── Open Source
+    └── Software Engineering
 
-<br/>
+ashiy@github:~$ cat currently_working_on.txt
 
-<div align= "left">
+> Learning Advanced Python
+> Building Open Source Projects
+> Improving Linux Skills
+> Exploring AI & Cybersecurity
 
- 🌱 I’m currently learning **PYTHON**
- 
- 🧑‍🎓 I’m an Undergraduate at **UNIVERSITY OF SABARAGAMUWA**
- 
- 💬 Ask me about **Java AND C**
- 
- 📫 How to reach me **ashinshanaishan@gmail.com**
+ashiy@github:~$ git log --oneline
 
- 
- <div style="text-align: left;">
-  <a href="mailto:ashinshanaishan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" width="150" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashinshana-ishan-73b228318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="150" height="40" />
-  </a>
-</div>
+✔ Build
+✔ Learn
+✔ Break
+✔ Fix
+✔ Repeat
 
-<hr/>
+ashiy@github:~$ echo $GOAL
 
-<h2 align="left">🛠️ Languages-Frameworks-Tools 🛠️</h2>
-<br/>
-<div align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,python,c,java,kotlin,cpp"/><br>
-<img src="https://skillicons.dev/icons?i=rect,mysql,html,css,vscode,git" /><br>
-<img src="https://skillicons.dev/icons?i=au,ae,ps,pr,notion" /><br>
-</a>
-</div>
+Become a Professional 
+while contributing to Open Source.
 
-<hr/>
+ashiy@github:~$ contact
 
-<h2 align="left">⚡Stats⚡</h2>
-<br>
-<div align="left">
- <img src="https://tryhackme-badges.s3.amazonaws.com/ashinshanaishan.png" alt="Your Image Badge" />
-  <td width="50%" align="left">
+GitHub   : https://github.com/Ashiy-Ishan
+LinkedIn : https://www.linkedin.com/in/ashinshana-ishan-73b228318/
+Email    : ashinshanaishan@gmail.com
+FaceBook : https://www.facebook.com/profile.php?id=61553251979579
+
+ashiy@github:~$ exit
+
+logout
+```
+
+---
+
+### Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,firebase,mysql,git,github,vscode,linux&perline=7"/>
 
 </p>
-  </td>
-</div>
 
-<br/><br/>
-<hr/>
-<h3 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;">
-  </a>
-</h3>
+---
 
+### GitHub Stats
 
-  
+<p align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiy-Ishan&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ashiy-Ishan&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
