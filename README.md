@@ -53,6 +53,7 @@ ashiy@github:~$ cat currently_working_on.txt
 > Building Open Source Projects
 > Improving Linux Skills
 > Exploring AI & Cybersecurity
+> Vibe Cording (🤓)
 
 ashiy@github:~$ git log --oneline
 
